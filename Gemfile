@@ -12,7 +12,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'httparty', '~> 0.17.0'
+gem 'httparty', '~> 0.21.0'
 gem 'prawn', '~> 2.2', '>= 2.2.2'
 
 group :development, :test do
